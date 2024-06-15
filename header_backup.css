@@ -1,0 +1,114 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.navbar {
+    background-color: #BFA52C;
+    overflow: hidden;
+    height: 60px;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin-top: -18px;
+    margin-left: 30px;
+    margin-right: 20px;
+    
+}
+
+.navbar-links {
+    list-style-type: none;
+}
+
+
+.navbar-links li {
+    display: inline;
+}
+
+.navbar-links li a {
+    color: white;
+    text-decoration: none;
+    padding: 15px 15px;
+    display: inline-block;
+}
+
+.navbar-links li a:hover {
+   color: #2B3618;
+}
+
+.logout{
+    margin-left: 480px;
+}
+
+.main-container img{
+    height: 491px;
+    width: 934px;
+    margin-top: -457px;
+    margin-left: 329px;
+}
+
+.text-container h1{
+    font-family: 'Lora', serif;
+    font-size: 70px;
+}
+
+.text-container {
+    margin-left: 40px;
+    margin-top: 40px;   
+}
+
+.paragraph p{
+    justify-content: left;
+    margin-left: 40px;
+    margin-top: 20px;
+    font-size: 17px;
+}
+
+.img-standard{
+    height: 300px;
+    width: 540px;
+    margin-top: 150px;
+    margin-left: 70px;
+}
+
+
+.standard-h1{
+    font-family: 'Lora', serif;
+    
+}
+
+.price-h2{
+    font-weight: 300;
+    font-size: 16px;
+    margin-top: -60px;
+    padding-left: 350px;
+}
+
+.h2-available{
+    font-size: 16px;
+    font-weight: bold;
+    color: #D19F68;
+    padding-top: 5px;
+}
+
+.card1{
+    margin-top: 484px;
+    background-color: #2B3618;
+    width: 500px;
+    height: 700px;
+    color: #fff;
+    margin-left: 70px;
+    padding: 20px;
+}
+
+.p-standard{
+    padding-top: 80px;
+}
+
+
+

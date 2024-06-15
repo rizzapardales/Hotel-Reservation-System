@@ -1,0 +1,126 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.card{
+    flex-direction: column;
+    display: flex;
+    padding: 5px;
+}
+
+.reg{
+    background-color: #2B3618;
+    color: #fff;
+    padding: 10px;
+    width: 1100px;
+    margin-top: 20px;
+    margin-left: 80px;
+    border-top-left-radius: 10px; 
+    border-top-right-radius: 10px; 
+}
+
+.reg h1{
+    font-size: 20px;
+    text-align: center;
+}
+
+label{
+    font-size: 12px;
+    margin-top: 5px;
+}
+
+.info h2{
+    font-size: 15px;
+    color: #D19F68;
+}
+
+.info{
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(80, 80, 80, 0.2);
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    width: 1080px;
+    height: 420px;
+    margin-left: 80px;
+}
+
+.applicant2{
+    margin-left: 250px;
+    margin-top: -198px;
+}
+
+.account1{
+    padding-top: 90px;
+}
+
+.account2{
+    margin-left: 250px;
+    margin-top: -131px;
+}
+
+input{
+    border-radius: 7px;
+    padding: 10px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 12px;
+    border: 1.5px solid;
+    height: 5px;
+    width: 190px;
+    margin-top: 5px;
+}
+
+input[type="radio"] {
+    transform: scale(3); 
+    margin-right: -80px; 
+    margin-top: 30px;
+}
+
+.data{
+    margin-left: 550px;
+    margin-top: -340px;
+}
+
+.data h1{
+    font-size: 25px;
+    color: #D19F68;
+}
+
+.data p{
+    margin-top: 10px;
+    font-size: 15px;
+}
+
+label span.accept {
+    font-weight: bold; 
+    color: green; 
+}
+
+label span.decline {
+    font-weight: bold; 
+    color: red; 
+}
+
+button {
+    padding: 7px;
+    font-size: 12px;
+    width: 80px;
+    background-color: #2F2D0D;
+    color: #fff;
+    border-radius: 5px;
+    margin-top: 80px;
+    margin-left: 950px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+    border: none;
+}
+
+button:hover {
+    background-color: #BFA52C;
+    transform: scale(1.1);
+}
+
+
+
+

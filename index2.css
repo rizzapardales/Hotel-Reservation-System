@@ -1,0 +1,115 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.main-container{
+    height: 551px;
+    width: 500px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.50)), url("img/building.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+img {
+    padding-top: 120px;
+    width: 380px;
+    margin-left: 50px;
+}
+
+.contain{
+    margin-left: 550px;
+    margin-top: -520px;
+    white-space: nowrap;
+}
+
+h1 {
+    font-size: 50px;
+    color: #322316;
+    margin-left: 180px;
+    margin-top: 80px;
+}
+
+.contain p{
+    font-size: 20px;
+    color: #9D9D9D;
+    font-style: italic;
+    margin-left: 80px;
+    margin-top: -10px;
+}
+
+.contents{
+    margin-bottom: 50px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+    margin-left: 50px;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+    color: #322316;
+    margin-bottom: 8px;
+}
+
+input[type="email"],
+input[type="password"] {
+    width: 550px;
+    padding: 10px;
+    border: none;
+    border-bottom: 2px solid #ccc; /* Create the line-style input */
+    outline: none;
+    transition: border-bottom-color 0.3s ease; /* Smooth transition for focus */
+}
+
+input[type="email"]:focus,
+input[type="password"]:focus {
+    border-bottom-color: #007bff; /* Change line color on focus */
+}
+
+.btn-login {
+    width: 600px;
+    padding: 10px;
+    background-color: #2B3618;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top: 15px;
+    margin-left: 50px;
+    font-size: 20px;
+}
+
+.btn-login:hover {
+    background-color: #BFA52C; 
+}
+
+.sign p{
+    margin-left: 770px;
+    white-space: nowrap;
+    margin-top: 15px;
+
+    
+}
+
+.input-with-icon {
+    position: relative;
+}
+
+.input-with-icon i {
+    position: absolute;
+    top: 50%;
+    left: 10px;
+    transform: translateY(-50%);
+    color: #666; 
+}
+
+.input-with-icon input {
+    padding-left: 40px; 
+}
+
+
