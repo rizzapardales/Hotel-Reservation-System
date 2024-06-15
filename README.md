@@ -31,7 +31,6 @@
 <img src="img/Reservation Form - Pop Up.png" alt="Website Preview" style="border: 2px solid #FF6347;">
 <img src="img/Landing Page.png" alt="Website Preview" style="border: 2px solid #FF6347;">
 <img src="img/Webpage Information.png" alt="Website Preview" style="border: 2px solid #FF6347;">
-<img src="img/Login.png" alt="Website Preview" style="border: 2px solid #FF6347;">
 <img src="img/Reservation Page.png" alt="Website Preview" style="border: 2px solid #FF6347;">
 <img src="img/Reservation Form.png" alt="Website Preview" style="border: 2px solid #FF6347;">
 <img src="img/Reservation Form - Pop Up.png" alt="Website Preview" style="border: 2px solid #FF6347;">
