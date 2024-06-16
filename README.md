@@ -1,48 +1,39 @@
-# 🏨 Hotel Reservation System
+<h1 style="color: #1E90FF;">Hotel Reservation System</h1>
 
-Welcome to the **Hotel Reservation System** repository! This project is a comprehensive web system designed to facilitate the booking of hotel reservations. The system provides a seamless and efficient way for users to book rooms and manage their reservations.
+<h2 style="color: #FF6347;">📋 Description</h2>
+<p>The <strong>Hotel Reservation System</strong> is a web-based platform designed to facilitate hotel room booking  This system allows users to browse available rooms and make reservations efficiently.</p>
 
----
+<h2 style="color: #FF6347;">🎯 Purpose</h2>
+<p>The primary purpose of the <strong>Hotel Reservation System</strong> is to provide a convenient and user-friendly interface for guests to book hotel rooms online. It aims to streamline the reservation process,and enhance customer experience</p>
 
-## 📄 Description
+<h2 style="color: #FF6347;">✨ Key Features</h2>
+<ul>
+  <li><strong>🔑 User Registration and Login</strong>: Secure authentication system for guests to create accounts and log in.</li>
+  <li><strong>📅 Reservation Form</strong>: Easy-to-use form for selecting dates, room types, and submitting booking requests.</li>
+  <li><strong>🚫 Cancel Request</strong>: Option for users to cancel their reservations through the system.</li>
+  <li><strong>🔍 Room Availability </strong>: Real-time availability updates on available rooms.</li>
+  </li>
+</ul>
 
-The **Hotel Reservation System** is built to streamline the process of booking hotel rooms. It offers a user-friendly interface for customers to make reservations, view available rooms, and manage their bookings. 
+<h2 style="color: #FF6347;">🛠️ Tech Stack</h2>
+<ul>
+  <li><strong>🌐 HTML</strong>: For structuring the web pages.</li>
+  <li><strong>🎨 CSS</strong>: For styling the web pages.</li>
+  <li><strong>💻 JavaScript</strong>: For interactive elements and form validation.</li>
+  <li><strong>🐘 PHP</strong>: Server-side scripting for handling backend operations.</li>
+  <li><strong>🗃️ HeidiSQL</strong>: For database management and storage.</li>
+</ul>
 
----
-
-## 🎯 Purpose
-
-The primary purpose of this system is to provide an efficient and intuitive platform for managing hotel room reservations. It aims to enhance the booking experience for customers.
-
----
-
-## 🔑 Key Features
-
-### 🔐 User Registration and Login
-> **Objective:** Enable users to create accounts and log in to the system.
->
-> **Description:** Users can register with their details, log in securely, and manage their profiles and reservations.
-
-### 📅 Reservation Form
-> **Objective:** Allow users to book hotel rooms.
->
-> **Description:** A detailed reservation form where users can select room types, check availability, and make bookings.
-
-### ❌ Cancel Request
-> **Objective:** Provide users with the ability to cancel their reservations.
->
-> **Description:** Users can view their current reservations and submit cancellation requests easily.
-
----
-
-## 🛠️ Tech Stack
-
-- **HTML:** For structuring the web pages.
-- **CSS:** For styling and designing the user interface.
-- **JavaScript:** For client-side scripting and interactivity.
-- **PHP:** For server-side processing and database interactions.
-- **HeidiSQL:** For managing the MySQL database.
-
-
-
-
+<h2 style="color: #FF6347;">🖼️ Website Preview</h2>
+<p>Here is a preview of the Online Document Request System:</p>
+<img src="img/Login.png" alt="Website Preview" style="border: 2px solid #FF6347;">
+<img src="img/Login-1.png" alt="Website Preview" style="border: 2px solid #FF6347;">
+<img src="img/Registration.png" alt="Website Preview" style="border: 2px solid #FF6347;">
+<img src="img/Landing Page.png" alt="Website Preview" style="border: 2px solid #FF6347;">
+<img src="img/Webpage Information.png" alt="Website Preview" style="border: 2px solid #FF6347;">
+<img src="img/Login.png" alt="Website Preview" style="border: 2px solid #FF6347;">
+<img src="img/Reservation Page.png" alt="Website Preview" style="border: 2px solid #FF6347;">
+<img src="img/Reservation Form.png" alt="Website Preview" style="border: 2px solid #FF6347;">
+<img src="img/Reservation Form - Pop Up.png" alt="Website Preview" style="border: 2px solid #FF6347;">
+<img src="img/Contacts.png" alt="Website Preview" style="border: 2px solid #FF6347;">
+<img src="img/Cancel - Pop Up.png" alt="Website Preview" style="border: 2px solid #FF6347;">
